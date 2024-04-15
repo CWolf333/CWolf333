@@ -1,6 +1,6 @@
 -  Hi, I’m @CWolf333
 -  I’m interested in ...
--  I’m currently learning Java
+-  I’m currently learning Python and Java
 -  I’m looking to collaborate on One Stop Shop
 -  Fun fact: I like Minecraft
 
